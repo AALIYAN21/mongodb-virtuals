@@ -41,7 +41,6 @@ const User = mongoose.model("User", userSchema);
   const u = new User({ firstName: "Ahmed", lastName: "Ali" });
   console.log(u.fullName); // "Ahmed Ali"
 })();
-````
 
 ✅ **When to use**: Need a calculated field like `fullName`.
 
