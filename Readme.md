@@ -1,6 +1,4 @@
-Got it 👍 — you want a **fully structured `README.md`** with proper headings, code fences, bullet lists, etc.
-Here’s a **complete, copy-paste ready `README.md`** with examples and notes formatted properly.
-
+MONGODB VIRTUALS NOTES 💻 **LEARNING NOTES**
 ---
 
 ````markdown
@@ -204,5 +202,4 @@ const Product = mongoose.model("Product", productSchema);
 
 ---
 
-Would you like me to also add a **Quick Reference Table** at the top (like a summary of getter, setter, relationship virtuals with one-line examples) so you can instantly scan it before diving into details?
 ```
